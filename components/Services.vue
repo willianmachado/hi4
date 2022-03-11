@@ -4,9 +4,6 @@
     <div class="pt-table desktop-768">
       <div
         class="pt-tablecell page-home relative"
-        style="background-image: url(https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
-    background-position: center;
-    background-size: cover;"
       >
         <div class="overlay" />
 
@@ -171,7 +168,7 @@
 </template>
 
 <script>
-// import '@/assets/css/estilo.css'
+import '@/assets/css/estilo.css'
 
 export default {
   name: 'NuxtServices'

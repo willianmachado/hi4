@@ -33,6 +33,10 @@ export default {
       {
         src: 'js/scripts.js',
         type: 'text/javascript'
+      },
+      {
+        src:'https://www.npmjs.com/package/particles.js',
+        crossorigin: ''
       }
     ]
   },
