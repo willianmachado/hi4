@@ -2,7 +2,7 @@
 <template>
   <nav id="mainNav" class="navbar navbar-expand-lg navbar-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#page-top"><img src="@/assets/img/logohi4.png" alt="..."></a>
+      <a class="navbar-brand" href="#page-top"><img src="img/logohi4.png" alt="..."></a>
       <button
         class="navbar-toggler"
         type="button"

@@ -20,7 +20,7 @@
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x" /></div>
                 </div>
-                <img class="img-fluid" src="~/assets/img/portfolio/1.jpg" alt="...">
+                <img class="img-fluid" src="img/portfolio/1.jpg" alt="...">
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">
@@ -39,7 +39,7 @@
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x" /></div>
                 </div>
-                <img class="img-fluid" src="~/assets/img/portfolio/2.jpg" alt="...">
+                <img class="img-fluid" src="img/portfolio/2.jpg" alt="...">
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">
@@ -58,7 +58,7 @@
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x" /></div>
                 </div>
-                <img class="img-fluid" src="~/assets/img/portfolio/3.jpg" alt="...">
+                <img class="img-fluid" src="img/portfolio/3.jpg" alt="...">
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">
@@ -77,7 +77,7 @@
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x" /></div>
                 </div>
-                <img class="img-fluid" src="~/assets/img/portfolio/4.jpg" alt="...">
+                <img class="img-fluid" src="img/portfolio/4.jpg" alt="...">
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">
@@ -96,7 +96,7 @@
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x" /></div>
                 </div>
-                <img class="img-fluid" src="~/assets/img/portfolio/5.jpg" alt="...">
+                <img class="img-fluid" src="img/portfolio/5.jpg" alt="...">
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">
@@ -115,7 +115,7 @@
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x" /></div>
                 </div>
-                <img class="img-fluid" src="~/assets/img/portfolio/6.jpg" alt="...">
+                <img class="img-fluid" src="img/portfolio/6.jpg" alt="...">
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">

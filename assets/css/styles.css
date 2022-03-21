@@ -3976,7 +3976,8 @@ textarea.form-control-lg {
   padding: 0.5rem 1rem;
   color: #ffc800;
   text-decoration: none;
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
@@ -3985,6 +3986,8 @@ textarea.form-control-lg {
 }
 .nav-link:hover, .nav-link:focus {
   color: #cca000;
+  transform: scale(1.2);
+  transition: transform 0.5s;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -11333,6 +11336,8 @@ p {
 
 .page-section {
   padding: 6rem 0;
+  background: #ffffff;
+  opacity: 0.9;
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
@@ -11349,7 +11354,7 @@ p {
 
 @media (min-width: 768px) {
   section {
-    padding: 5rem 0;
+    padding: 0rem 0;
   }
 }
 .btn-xl {
@@ -11436,12 +11441,22 @@ p {
     margin-right: 0;
   }
 }
+header.masthead .banner video{
+  width: auto;
+  height: auto;
+  top: 0px;
+  left: 0;
+  align-items: center; 
+  position: fixed;
+  z-index:-1;
+  
+}
 header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("@/assets/img/circuitos.jpeg");
+  /* background-image: url("img/circuitos.jpeg"); */
   background-attachment: fixed;
   background-repeat: no-repeat;
  /* background-attachment: scroll;*/
@@ -11449,6 +11464,7 @@ header.masthead {
   background-size: cover;
 }
 header.masthead .masthead-subheading {
+  z-index: 1;
   font-size: 1.5rem;
   font-style: italic;
   line-height: 1.5rem;
@@ -11456,6 +11472,7 @@ header.masthead .masthead-subheading {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
+  z-index: 1;
   font-size: 3.25rem;
   font-weight: 700;
   line-height: 3.25rem;

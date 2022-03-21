@@ -40,7 +40,7 @@ const debounce = function (func, wait, immediate) {
 $(function () {
   const $target = $('.anime')
   const animationClass = 'anime-start'
-  const offset = $(window).height() * 3 / 4
+  const offset = $(window).height() * 0.5
 
   function animeScroll () {
     const documentTop = $(document).scrollTop()
@@ -67,7 +67,7 @@ $(function () {
 $(function () {
   const $target = $('.fadeout')
   const animationClass = 'fadein'
-  const offset = $(window).height() * 3 / 4
+  const offset = $(window).height() * 0.5
 
   function animeScroll () {
     const documentTop = $(document).scrollTop()

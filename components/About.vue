@@ -14,7 +14,7 @@
         <ul class="timeline">
           <li>
             <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="~/assets/img/about/1.jpg" alt="...">
+              <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="...">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
@@ -32,7 +32,7 @@
           </li>
           <li class="timeline-inverted">
             <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="~/assets/img/about/2.jpg" alt="...">
+              <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="...">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
@@ -50,7 +50,7 @@
           </li>
           <li>
             <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="~/assets/img/about/3.jpg" alt="...">
+              <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="...">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
@@ -68,7 +68,7 @@
           </li>
           <li class="timeline-inverted">
             <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="~/assets/img/about/4.jpg" alt="...">
+              <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="...">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
@@ -112,7 +112,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="~/assets/img/team/1.jpg" alt="...">
+              <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="...">
               <h4>Heloísa Tessari</h4>
               <p class="text-muted">
                 Lead Designer
@@ -124,7 +124,7 @@
           </div>
           <div class="col-lg-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="~/assets/img/team/2.jpg" alt="...">
+              <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="...">
               <h4>Lucas</h4>
               <p class="text-muted">
                 Lead Marketer
@@ -136,7 +136,7 @@
           </div>
           <div class="col-lg-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="~/assets/img/team/3.jpg" alt="...">
+              <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="...">
               <h4>Raul</h4>
               <p class="text-muted">
                 Lead Developer
@@ -161,16 +161,16 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-3 col-sm-6 my-3">
-            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="~/assets/img/logos/microsoft.svg" alt="..."></a>
+            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/logos/microsoft.svg" alt="..."></a>
           </div>
           <div class="col-md-3 col-sm-6 my-3">
-            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="~/assets/img/logos/google.svg" alt="..."></a>
+            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/logos/google.svg" alt="..."></a>
           </div>
           <div class="col-md-3 col-sm-6 my-3">
-            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="~/assets/img/logos/facebook.svg" alt="..."></a>
+            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/logos/facebook.svg" alt="..."></a>
           </div>
           <div class="col-md-3 col-sm-6 my-3">
-            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="~/assets/img/logos/ibm.svg" alt="..."></a>
+            <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/logos/ibm.svg" alt="..."></a>
           </div>
         </div>
       </div>
