@@ -12,53 +12,18 @@
       </div>
 
       <div class="row text-center">
-        <div class="col-md-4">
-          <img class="img-fluid" src="img/servicos3.jpg" alt="...">
-          <h4 class="my-3">
-            E-Commerce
-          </h4>
-          <p class="text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-          </p>
-        </div>
-        <div class="col-md-4">
-          <img class="img-fluid" src="img/servicos2.jpg" alt="...">
-          <h4 class="my-3">
-            Responsive Design
-          </h4>
-          <p class="text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-          </p>
-        </div>
-        <div class="col-md-4">
-          <img class="img-fluid" src="img/servicos1.jpg" alt="...">
-          <h4 class="my-3">
-            Web Security
-          </h4>
-          <p class="text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-          </p>
-        </div>
-
-        <div class="col-md-12">
-          <div style="position: relative">
-            <figure class="effect-sadie">
-              <img src="img/servicos1.jpg" alt="...">
-              <figcaption>
-                <h2>WEB <span>Security</span></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-              </figcaption>
-            </figure>
-          </div>
-        </div>
+        <card-servico image="img/servicos2.jpg" title="Manutenção" subtitle="Qualquer que seja o problema estamos aqui para ajudar!" />
+        <card-servico image="img/servicos1.jpg" title="Instalação" subtitle="Querendo comprar algo mas com medo de não saber instalar? Seus problemas acabaram" />
+        <card-servico image="img/servicos3.jpg" title="Criação de websites" subtitle="Deixe sua marca com a visibilidade que ela merece!" />
       </div>
     </div>
   </section>
 </template>
 
 <script>
-import '@/assets/css/card.css'
+import CardServico from './library/CardServico.vue'
 export default {
-  name: 'NuxtService3'
+  name: 'NuxtService3',
+  components: { CardServico }
 }
 </script>
