@@ -2,7 +2,7 @@
   <div>
     <NavBar />
     <Header />
-    <Services />
+    <Menu />
     <ServiceList />
     <Service3 />
     <Portfolio />

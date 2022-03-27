@@ -4,7 +4,7 @@
       <div class="container">
         <div class="banner">
           <video autoplay loop muted>
-             <source src="img/loopCircuit2.mp4" type="video/mp4">
+            <source src="img/loopCircuit2.mp4" type="video/mp4">
          </video>
         </div>
         <div class="masthead-subheading">
@@ -17,6 +17,7 @@
           <font color="#F58A3C">
             Four
           </font>
+           <!-- <vue-typer text='Hello World! I was registered locally!'></vue-typer> -->
         </div>
         <a class="btn btn-primary btn-xl text-uppercase" href="#services">Serviços</a>
       </div>
@@ -24,6 +25,9 @@
 </template>
 
 <script>
+// import VueTyperPlugin from 'vue-typer'
+// import Vue from 'Vue'
+// Vue.use(VueTyperPlugin)
 export default {
   name: 'NuxtPart'
 }

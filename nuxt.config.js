@@ -37,7 +37,7 @@ export default {
         type: 'text/javascript'
       },
       {
-        src:'https://www.npmjs.com/package/particles.js',
+        src:'https://unpkg.com/vue-typer/dist/vue-typer.min.js',
         crossorigin: ''
       }
     ]
