@@ -1,7 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
   <div class="grid">
-    <figure class="effect-sadie">
+    <figure class="effect-goliath">
       <img :src="image" alt="...">
       <figcaption>
         <h2><span>{{ title }}</span></h2>
@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import '@/assets/css/card.css'
+import '@/assets/css/card2.css'
 
 export default {
   name: 'NuxtCardServico',

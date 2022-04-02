@@ -12,13 +12,13 @@
       </div>
       <div class="masthead-heading text-uppercase">
         <font color="#5598F5">
-          High
+          Hi
         </font>
         <font color="#F58A3C">
           Four
         </font>
         <br>
-        <vue-typer :text="['OLA', 'LINDAO']" />
+        <vue-typer :text="['Manutenção de Computadores', 'Montagem de Computadores', 'Backup de Dados', 'Recuperação de Sistemas', 'Edição de vídeo', 'Criação de Websites']" />
       </div>
       <a class="btn btn-primary btn-xl text-uppercase" href="#services">Serviços</a>
     </div>
