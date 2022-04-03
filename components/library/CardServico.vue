@@ -1,7 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
   <div class="grid">
-    <figure class="effect-goliath">
+    <figure class="effect-julia">
       <img :src="image" alt="...">
       <figcaption>
         <h2><span>{{ title }}</span></h2>
