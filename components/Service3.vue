@@ -12,14 +12,17 @@
       </div>
 
       <div class="row text-center">
-        <div>
-              <card-servico image="img/servi2.jpg" title="Manutenção" subtitle="Qualquer que seja o problema estamos aqui para ajudar!" />
+        <div class="col-md-6">
+          <card-servico image="img/servi2.jpg" title="Manutenção" subtitle1="Qualquer que seja o problema" subtitle2="Estamos aqui para ajudar!" />
         </div>
-        <div>
-            <card-servico image="img/servi1.jpg" title="Instalação" subtitle="Querendo comprar algo mas com medo de não saber instalar? Seus problemas acabaram" />
+        <div class="col-md-6">
+          <card-servico image="img/servi1.jpg" title="Instalação" subtitle1="Querendo comprar algo" subtitle2="mas não sabe instalar?" subtitle3="Seus problemas acabaram!" />
         </div>
-        <div>
-            <card-servico image="img/servi3.jpg" title="Criação de websites" subtitle="Deixe sua marca com a visibilidade que ela merece!" />
+        <div class="col-md-6">
+          <card-servico image="img/servi3.jpg" title="Criação de websites" subtitle1="Deixe sua marca" subtitle2="com a visibilidade que ela merece!" />
+        </div>
+        <div class="col-md-6">
+          <card-servico image="img/servi3.jpg" title="Criação de websites" subtitle1="Deixe sua marca" subtitle2="com a visibilidade que ela merece!" />
         </div>
       </div>
     </div>
