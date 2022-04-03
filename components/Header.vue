@@ -4,7 +4,7 @@
     <div class="container">
       <div class="banner">
         <video autoplay loop muted>
-          <source src="img/loopCircuit2.mp4" type="video/mp4">
+          <source src="img/loopCircuit2.mp4" style="width: 100%" type="video/mp4">
         </video>
       </div>
       <div class="masthead-subheading">
