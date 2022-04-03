@@ -7,16 +7,16 @@
         <h2><span>{{ title }}</span></h2>
         <p v-if="subtitle1">
           {{ subtitle1 }}
-        </p>
+        </p></br>
         <p v-if="subtitle2">
           {{ subtitle2 }}
-        </p>
+        </p></br>
         <p v-if="subtitle3">
           {{ subtitle3 }}
-        </p>
+        </p></br>
         <p v-if="subtitle4">
           {{ subtitle4 }}
-        </p>
+        </p></br>
       </figcaption>
     </figure>
   </div>
