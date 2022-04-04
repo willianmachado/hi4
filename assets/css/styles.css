@@ -3067,6 +3067,7 @@ textarea.form-control-lg {
   border: 0;
 }
 .btn-primary:hover {
+  background: linear-gradient(90deg, rgb(245 138 60) 0%, rgb(245, 137, 60) 100%);
   box-shadow: rgba(245, 137, 60, 0.644) 0px 0px 70px 0px;
   color: #fff;
 
