@@ -5,7 +5,7 @@
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">
-            About
+            Diretrizes
           </h2>
           <h3 class="section-subheading text-muted">
             Lorem ipsum dolor sit amet consectetur.
@@ -18,14 +18,11 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>2009-2011</h4>
-                <h4 class="subheading">
-                  Our Humble Beginnings
-                </h4>
+                <h4>Missão</h4>
               </div>
               <div class="timeline-body">
                 <p class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+                  ser um time obstinado em prever e atender as necessidades dos clientes e consumidores sempre agregando valores.
                 </p>
               </div>
             </div>
@@ -36,14 +33,11 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>March 2011</h4>
-                <h4 class="subheading">
-                  An Agency is Born
-                </h4>
+                <h4>Visão</h4>
               </div>
               <div class="timeline-body">
                 <p class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+                  Consolidar nossa inquestionável qualidade global dos produtos e serviços, em uma posição de líder de mercado.
                 </p>
               </div>
             </div>
@@ -54,32 +48,23 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>December 2015</h4>
-                <h4 class="subheading">
-                  Transition to Full Service
-                </h4>
+                <h4>Valores</h4>
               </div>
               <div class="timeline-body">
                 <p class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+                  Paixão por tecnologia
                 </p>
-              </div>
-            </div>
-          </li>
-          <li class="timeline-inverted">
-            <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="...">
-            </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>July 2020</h4>
-                <h4 class="subheading">
-                  Phase Two Expansion
-                </h4>
-              </div>
-              <div class="timeline-body">
                 <p class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+                  Integridade
+                </p>
+                <p class="text-muted">
+                  Honestidade
+                </p>
+                <p class="text-muted">
+                  Abertura e respeito
+                </p>
+                <p class="text-muted">
+                  Responsabilidade
                 </p>
               </div>
             </div>
@@ -87,11 +72,11 @@
           <li class="timeline-inverted">
             <div class="timeline-image">
               <h4>
-                Be Part
+                Isso
                 <br>
-                Of Our
+                é
                 <br>
-                Story!
+                Hi4
               </h4>
             </div>
           </li>
@@ -103,7 +88,7 @@
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">
-            Our Amazing Team
+            Time
           </h2>
           <h3 class="section-subheading text-muted">
             Lorem ipsum dolor sit amet consectetur.
@@ -156,7 +141,7 @@
         </div>
       </div>
     </section>
-    <!-- Clients-->
+    <!-- Clients
     <div class="py-5">
       <div class="container">
         <div class="row align-items-center">
@@ -175,6 +160,7 @@
         </div>
       </div>
     </div>
+    -->
     <!-- Contact-->
     <section id="contact" class="page-section">
       <div class="container">

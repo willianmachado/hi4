@@ -1,4 +1,3 @@
-<!-- Please remove this file from your project -->
 <template>
   <section id="services" class="page-section">
     <div class="container">
