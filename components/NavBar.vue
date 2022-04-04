@@ -1,6 +1,6 @@
 <!-- Please remove this file from your project -->
 <template>
-  <nav id="mainNav" class="navbar navbar-expand-lg navbar-dark fixed-top">
+  <nav id="mainNav" class="navbar navbar-expand-lg navbar-dark fixed-top startAnimate3">
     <div class="container">
       <a class="navbar-brand" href="#page-top"><img src="img/logohi4.png" alt="..."></a>
       <button

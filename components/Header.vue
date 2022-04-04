@@ -3,24 +3,24 @@
   <header class="masthead">
     <div class="container">
       <div class="banner">
-        <video autoplay loop muted>
+        <video style="background-color: black !important;" autoplay loop muted class="startAnimate4">
           <source src="img/loopCircuit2.mp4" style="width: 100%" type="video/mp4">
         </video>
       </div>
-      <div class="masthead-subheading">
+      <div class="masthead-subheading startAnimate2">
         Reparando e Construindo o seu mundo digital
       </div>
       <div class="masthead-heading text-uppercase">
-        <div style="display: inline-flex">
+        <div style="display: inline-flex" class="startAnimate">
           <font color="#5598F5">Hi</font>
           <font color="#F58A3C">4</font>
         </div>
         <br>
-        <div style="margin-top: 20px">
+        <div style="margin-top: 20px" class="startAnimate3">
           <vue-typer :text="['Manutenção de Computadores', 'Montagem de Computadores', 'Backup de Dados', 'Recuperação de Sistemas', 'Edição de vídeo', 'Criação de Websites']" />
         </div>
       </div>
-      <a class="btn btn-primary btn-xl text-uppercase" href="#services">Serviços</a>
+      <a class="btn btn-primary btn-xl text-uppercase startAnimate25" href="#services">Serviços</a>
     </div>
   </header>
 </template>
