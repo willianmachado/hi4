@@ -11,14 +11,14 @@
         Reparando e Construindo o seu mundo digital
       </div>
       <div class="masthead-heading text-uppercase">
-        <font color="#5598F5">
-          Hi
-        </font>
-        <font color="#F58A3C">
-          Four
-        </font>
+        <div style="display: inline-flex">
+          <font color="#5598F5">Hi</font>
+          <font color="#F58A3C">4</font>
+        </div>
         <br>
-        <vue-typer :text="['Manutenção de Computadores', 'Montagem de Computadores', 'Backup de Dados', 'Recuperação de Sistemas', 'Edição de vídeo', 'Criação de Websites']" />
+        <div style="margin-top: 20px">
+          <vue-typer :text="['Manutenção de Computadores', 'Montagem de Computadores', 'Backup de Dados', 'Recuperação de Sistemas', 'Edição de vídeo', 'Criação de Websites']" />
+        </div>
       </div>
       <a class="btn btn-primary btn-xl text-uppercase" href="#services">Serviços</a>
     </div>
