@@ -3062,13 +3062,14 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #ffc800;
-  border-color: #ffc800;
+  background: linear-gradient(90deg, rgb(245 138 60) 0%, rgb(245 138 60 / 85%) 100%);
+  box-shadow: rgb(245 138 60 / 54%) 0px 0px 70px 0px;
+  border: 0;
 }
 .btn-primary:hover {
+  box-shadow: rgba(245, 137, 60, 0.644) 0px 0px 70px 0px;
   color: #fff;
-  background-color: #d9aa00;
-  border-color: #cca000;
+
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
