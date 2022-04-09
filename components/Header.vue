@@ -7,31 +7,33 @@
           <source src="img/loopCircuit2.mp4" style="width: 100%" type="video/mp4">
         </video>
       </div>
-      <div class="masthead-subheading startAnimate2">
+      <!-- <div class="masthead-subheading startAnimate2">
         Reparando e Construindo o seu mundo digital
-      </div>
+      </div> -->
       <div class="masthead-heading text-uppercase">
         <div style="display: inline-flex" class="startAnimate">
-          <font color="#5598F5">Hi</font>
-          <font color="#F58A3C">4</font>
+          <img src="img/logohi4.png" alt="...">
+          <!-- <font color="#5598F5">Hi</font> -->
+          <!-- <font color="#F58A3C">4</font> -->
         </div>
         <br>
         <div style="margin-top: 20px" class="startAnimate3">
           <vue-typer :text="['Manutenção de Computadores', 'Montagem de Computadores', 'Backup de Dados', 'Recuperação de Sistemas', 'Edição de vídeo', 'Criação de Websites']" />
         </div>
       </div>
-      <a class="btn btn-primary btn-xl text-uppercase startAnimate25" href="#services">Serviços</a>
+      <a class="btn btn-primary btn-xl text-uppercase startAnimate25" href="#services">conheça nossos serviços</a>
     </div>
   </header>
 </template>
-
 <script>
-// import VueTyperPlugin from 'vue-typer'
-// import Vue from 'Vue'
-// Vue.use(VueTyperPlugin)
 import '@/assets/css/typerStyle.css'
 
 export default {
   name: 'NuxtPart'
 }
 </script>
+<style scoped>
+header.masthead .masthead-heading .startAnimate img{
+  height: 100px;
+}
+</style>

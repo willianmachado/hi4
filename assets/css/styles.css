@@ -3976,7 +3976,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #ffc800;
+  
   text-decoration: none;
   transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
@@ -3986,15 +3986,20 @@ textarea.form-control-lg {
     transition: none;
   }
 }
+/* cor do menu quando mause :hover */
 .nav-link:hover, .nav-link:focus {
-  color: #cca000;
-  transform: scale(1.2);
+  
+  transform: scale(1.4);
   transition: transform 0.5s;
 }
 .nav-link.disabled {
   color: #6c757d;
   pointer-events: none;
   cursor: default;
+}
+/* color do menu : hover */
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #ffa200;
 }
 
 .nav-tabs {
@@ -4036,7 +4041,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #ffc800;
+  background-color: #fafafa;
 }
 
 .nav-fill > .nav-link,
@@ -11403,9 +11408,7 @@ p {
   color: #fff;
   letter-spacing: 0.0625em;
 }
-#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffc800;
-}
+
 
 @media (min-width: 992px) {
   #mainNav {
@@ -11426,7 +11429,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #000000;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -11514,7 +11517,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(255, 200, 0, 0.9);
+  background: #ffa200ab;
   align-items: center;
   justify-content: center;
   opacity: 0;
