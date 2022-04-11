@@ -82,7 +82,7 @@
         <div class="col-md-3 col-xs-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-delay="90" data-aos-offset="200">
           <ul class="plan plan4">
             <li class="plan-name">
-              <h3>Desenvolvimento web</h3>
+              <h3>Criação de sites</h3>
             </li>
             <li class="plan-price">
               <div>
@@ -222,13 +222,13 @@ export default {
 #pricing-table .plan:hover {
   transform: scale(1.06);
   transition: transform 0.3s;
-  border: 3px solid orange;
+  border: 3px solid #FE9300;
 }
 #pricing-table .plan {
   border-radius: 0;
   list-style: none;
-  margin: 0 0 20px;
-  background: #00b29e;
+  margin: 0 2px 20px;
+  background: #0072BF;
   text-align: center;
   padding: 30px 0;
 }

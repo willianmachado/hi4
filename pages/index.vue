@@ -6,7 +6,9 @@
     <!-- <CardHover /> -->
     <Portfolio />
     <Localizacao />
-    <About />
+    <Diretrizes />
+    <Time />
+    <Contato />
     <Footer />
     <PortfolioModals />
     <ServicosModals />
