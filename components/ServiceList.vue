@@ -13,132 +13,94 @@
 
       <div id="pricing-table" class="row">
         <div class="col-md-3 col-xs-6 flip-in">
-            <ul class="plan plan1">
-                <li class="plan-name">
-                    <h3>Manutenção</h3>
-                </li>
-                <li class="plan-price">
-                    <div>
-                        <span class="price"><sup>$</sup>10</span>
-                        <small>month</small>
-                    </div>
-                </li>
-                <li>
-                    <strong>5GB</strong> Formatação
-                </li>
-                <li>
-                    <strong>1GB</strong> Limpeza física
-                </li>
-                <li>
-                    <strong>400GB</strong> Reparo de hardware
-                </li>
-                <li>
-                    <strong>10</strong> Backup
-                </li>
-                <li>
-                    <strong>Forum</strong> Limpeza de software
-                </li>
-                <li>
-                    <strong>Forum</strong> Troca de peças
-                </li>
-                <li class="plan-action">
-                    <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
-                </li>
-            </ul>
-        </div><!--/.col-md-3-->
+          <ul class="plan plan1">
+            <li class="plan-name">
+              <h3>Manutenção</h3>
+            </li>
+            <li class="plan-price">
+              <div>
+                <span class="price"><sup>$</sup>10</span>
+                <small>month</small>
+              </div>
+            </li>
+            <li><strong>50000GB</strong> Formatação</li>
+            <li><strong>1GB</strong> Limpeza física</li>
+            <li><strong>400GB</strong> Reparo de hardware</li>
+            <li><strong>10</strong> Backup</li>
+            <li><strong>Forum</strong> Limpeza de software</li>
+            <li><strong>Forum</strong> Troca de peças</li>
+            <li class="plan-action">
+              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
+            </li>
+          </ul>
+        </div>
+        <!--/.col-md-3-->
         <div class="col-md-3 col-xs-6 flip-in">
-            <ul class="plan plan2 featured">
-                <li class="plan-name">
-                    <h3>Social mídia</h3>
-                </li>
-                <li class="plan-price">
-                    <div>
-                        <span class="price"><sup>$</sup>20</span>
-                        <small>month</small>
-                    </div>
-                </li>
-                <li>
-                    <strong>5GB</strong> Confecção de logo marca
-                </li>
-                <li>
-                    <strong>1GB</strong> Flyers promocionais
-                </li>
-                <li>
-                    <strong>400GB</strong> Mídias para redes sociais
-                </li>
-                <li>
-                    <strong>10</strong> Edição de imagens
-                </li>
-                <li>
-                    <strong>Forum</strong> Material institucional
-                </li>
-                <li class="plan-action">
-                    <a href="#portfolio" class="btn btn-outlined btn-primary btn-md">Signup</a>
-                </li>
-            </ul>
-        </div><!--/.col-md-3-->
+          <ul class="plan plan2 featured">
+            <li class="plan-name">
+              <h3>Social mídia</h3>
+            </li>
+            <li class="plan-price">
+              <div>
+                <span class="price"><sup>$</sup>20</span>
+                <small>month</small>
+              </div>
+            </li>
+            <li><strong>5GB</strong> Confecção de logo marca</li>
+            <li><strong>1GB</strong> Flyers promocionais</li>
+            <li><strong>400GB</strong> Mídias para redes sociais</li>
+            <li><strong>10</strong> Edição de imagens</li>
+            <li><strong>Forum</strong> Material institucional</li>
+            <li class="plan-action">
+              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md">Signup</a>
+            </li>
+          </ul>
+        </div>
+        <!--/.col-md-3-->
         <div class="col-md-3 col-xs-6 flip-in">
-            <ul class="plan plan3">
-                <li class="plan-name">
-                    <h3>Edição de vídeos</h3>
-                </li>
-                <li class="plan-price">
-                    <div>
-                        <span class="price"><sup>$</sup>40</span>
-                        <small>month</small>
-                    </div>
-                </li>
-                <li>
-                    <strong>50GB</strong> Vinhetas para Youtube
-                </li>
-                <li>
-                    <strong>8GB</strong> Edição para canais
-                </li>
-                <li>
-                    <strong>1024GB</strong> Stories animados
-                </li>
-                <li>
-                     Pacote especial para Youtuber iniciante
-                </li>
-                <li>
-                    <strong>Forum</strong> Edição de gameplay
-                </li>
-                <li class="plan-action">
-                    <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
-                </li>
-            </ul>
-        </div><!--/.col-md-3-->
+          <ul class="plan plan3">
+            <li class="plan-name">
+              <h3>Edição de vídeos</h3>
+            </li>
+            <li class="plan-price">
+              <div>
+                <span class="price"><sup>$</sup>40</span>
+                <small>month</small>
+              </div>
+            </li>
+            <li><strong>50GB</strong> Vinhetas para Youtube</li>
+            <li><strong>8GB</strong> Edição para canais</li>
+            <li><strong>1024GB</strong> Stories animados</li>
+            <li>Pacote especial para Youtuber iniciante</li>
+            <li><strong>Forum</strong> Edição de gameplay</li>
+            <li class="plan-action">
+              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
+            </li>
+          </ul>
+        </div>
+        <!--/.col-md-3-->
         <div class="col-md-3 col-xs-6 flip-in">
-            <ul class="plan plan4">
-                <li class="plan-name">
-                    <h3>Desenvolvimento web</h3>
-                </li>
-                <li class="plan-price">
-                    <div>
-                        <span class="price"><sup>$</sup>100</span>
-                        <small>month</small>
-                    </div>
-                </li>
-                <li>
-                    <strong>50GB</strong> Confecção de site personalizados
-                </li>
-                <li>
-                    <strong>8GB</strong> RAM
-                </li>
-                <li>
-                    <strong>1024GB</strong> Bandwidth
-                </li>
-                <li>
-                    <strong>Unlimited</strong> Email Address
-                </li>
-                <li>
-                    <strong>Forum</strong> Support
-                </li>
-                <li class="plan-action">
-                    <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
-                </li>
-            </ul>
-        </div><!--/.col-md-3-->
+          <ul class="plan plan4">
+            <li class="plan-name">
+              <h3>Desenvolvimento web</h3>
+            </li>
+            <li class="plan-price">
+              <div>
+                <span class="price"><sup>$</sup>100</span>
+                <small>month</small>
+              </div>
+            </li>
+            <li><strong>50GB</strong> Confecção de site personalizados</li>
+            <li><strong>8GB</strong> RAM</li>
+            <li><strong>1024GB</strong> Bandwidth</li>
+            <li><strong>Unlimited</strong> Email Address</li>
+            <li><strong>Forum</strong> Support</li>
+            <li class="plan-action">
+              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
+            </li>
+          </ul>
+        </div>
+        <!--/.col-md-3-->
       </div>
       <!-- <section class="anime"> -->
       <section class="">
@@ -152,7 +114,9 @@
               E-Commerce
             </h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+              maxime quam architecto quo inventore harum ex magni, dicta
+              impedit.
             </p>
           </div>
           <div class="col-md-4 col-sm-6">
@@ -164,7 +128,9 @@
               Responsive Design
             </h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+              maxime quam architecto quo inventore harum ex magni, dicta
+              impedit.
             </p>
           </div>
           <div class="col-md-4 col-sm-6">
@@ -176,7 +142,9 @@
               Web Security
             </h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+              maxime quam architecto quo inventore harum ex magni, dicta
+              impedit.
             </p>
           </div>
         </div>
@@ -190,7 +158,9 @@
               E-Commerce
             </h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+              maxime quam architecto quo inventore harum ex magni, dicta
+              impedit.
             </p>
           </div>
           <div class="col-md-4 col-sm-6">
@@ -202,19 +172,25 @@
               Responsive Design
             </h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+              maxime quam architecto quo inventore harum ex magni, dicta
+              impedit.
             </p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-              <a class="" data-bs-toggle="modal" href="#ServicosModal1"><i class="fas fa-circle fa-stack-2x text-primary" /><i class="fas fa-lock fa-stack-1x fa-inverse" />
+              <a class="" data-bs-toggle="modal" href="#ServicosModal1">
+                <i class="fas fa-circle fa-stack-2x text-primary" />
+                <i class="fas fa-lock fa-stack-1x fa-inverse"/>
               </a>
             </span>
             <h4 class="my-3">
               Web Security
             </h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+              maxime quam architecto quo inventore harum ex magni, dicta
+              impedit.
             </p>
           </div>
         </div>
@@ -229,83 +205,81 @@ export default {
 }
 </script>
 <style scoped>
-.col-md-4:hover
-{
-      background:#e9e9e9;
-      transform: scale(1.1);
-      transition: transform 0.5s;
-      /* border-style: solid; */
-      /* border-color: rgb(0, 0, 0); */
+.col-md-4:hover {
+  background: #e9e9e9;
+  transform: scale(1.1);
+  transition: transform 0.5s;
+  /* border-style: solid; */
+  /* border-color: rgb(0, 0, 0); */
 }
-.fa-stack:hover
-{
-    transform: scale(1.1);
-    transition: transform 0.5s;
+.fa-stack:hover {
+  transform: scale(1.1);
+  transition: transform 0.5s;
 }
 /* qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq */
-#pricing-table .plan:hover{
+#pricing-table .plan:hover {
   transform: scale(1.06);
   transition: transform 0.3s;
   border: 3px solid orange;
 }
 #pricing-table .plan {
-    border-radius: 0;
-    list-style: none;
-    margin: 0 0 20px;
-    background: #00b29e;
-    text-align: center;
-    padding: 30px 0;
+  border-radius: 0;
+  list-style: none;
+  margin: 0 0 20px;
+  background: #00b29e;
+  text-align: center;
+  padding: 30px 0;
 }
 
 #pricing-table .plan li {
-    padding: 5px 0;
-    color: #fff;
-    -webkit-transition: 300ms;
-    -moz-transition: 300ms;
-    -o-transition: 300ms;
-    transition: 300ms;
+  padding: 5px 0;
+  color: #fff;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
 }
 
 #pricing-table .plan li.plan-name {
-    font-size: 24px;
-    line-height: 24px;
-    color: #fff;
-    padding-bottom: 35px;
+  font-size: 24px;
+  line-height: 24px;
+  color: #fff;
+  padding-bottom: 35px;
 }
 
 #pricing-table .plan li.plan-name h3 {
-    margin: 0;
+  margin: 0;
 }
 
 #pricing-table .plan li.plan-price {
-    margin-bottom: 20px;
-    background-color: rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 #pricing-table .plan li.plan-price > div {
-    display: inline-block;
-    padding: 10px;
-    font-size: 24px;
-    width: 70px;
-    height: 70px;
+  display: inline-block;
+  padding: 10px;
+  font-size: 24px;
+  width: 70px;
+  height: 70px;
 }
 
 #pricing-table .plan li.plan-price > div sup {
-    font-size: 10px;
-    line-height: 10px;
+  font-size: 10px;
+  line-height: 10px;
 }
 
 #pricing-table .plan li.plan-price > div > small {
-    display: block;
-    font-size: 11px;
+  display: block;
+  font-size: 11px;
 }
 
 #pricing-table .plan li.plan-action {
-    margin-top: 25px;
-    border-top: 0;
+  margin-top: 25px;
+  border-top: 0;
 }
 
 #pricing-table .plan.featured {
-    background-color: #202020;
+  background-color: #202020;
 }
 </style>
