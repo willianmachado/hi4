@@ -10,7 +10,7 @@
           Lorem ipsum dolor sit amet consectetur.
         </h3>
       </div>
-      <section class="fadeout">
+      <section data-aos="fade-in" data-aos-offset="100" data-aos-delay="900" data-aos-duration="1000">
         <div class="row">
           <div class="col-lg-4 col-sm-6 mb-4">
             <!-- Portfolio item 1-->

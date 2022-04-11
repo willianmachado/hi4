@@ -7,7 +7,7 @@
           <h2 class="section-heading text-uppercase">
             Diretrizes
           </h2>
-          <h3 class="section-subheading text-muted">
+          <h3 class="section-subheading text-muted" data-aos="fade-zoom-in" data-aos-offset="100" data-aos-delay="900" data-aos-duration="1000">
             Lorem ipsum dolor sit amet consectetur.
           </h3>
         </div>
@@ -21,7 +21,7 @@
                 <h4>Missão</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">
+                <p class="text-muted" data-aos="fade-zoom-in" data-aos-offset="100" data-aos-delay="1000" data-aos-duration="1000">
                   ser um time obstinado em prever e atender as necessidades dos clientes e consumidores sempre agregando valores.
                 </p>
               </div>
@@ -36,7 +36,7 @@
                 <h4>Visão</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">
+                <p class="text-muted" data-aos="fade-zoom-in" data-aos-offset="100" data-aos-delay="1000" data-aos-duration="1000">
                   Consolidar nossa inquestionável qualidade global dos produtos e serviços, em uma posição de líder de mercado.
                 </p>
               </div>
@@ -46,7 +46,7 @@
             <div class="timeline-image">
               <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="...">
             </div>
-            <div class="timeline-panel">
+            <div class="timeline-panel" data-aos="fade-zoom-in" data-aos-offset="100" data-aos-delay="1500" data-aos-duration="1000">
               <div class="timeline-heading">
                 <h4>Valores</h4>
               </div>

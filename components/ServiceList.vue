@@ -12,7 +12,7 @@
       </div>
 
       <div id="pricing-table" class="row">
-        <div class="col-md-3 col-xs-6 flip-in">
+        <div class="col-md-3 col-xs-6" data-aos="flip-left" data-aos-offset="100" data-aos-delay="300">
           <ul class="plan plan1">
             <li class="plan-name">
               <h3>Manutenção</h3>
@@ -35,7 +35,7 @@
           </ul>
         </div>
         <!--/.col-md-3-->
-        <div class="col-md-3 col-xs-6 flip-in">
+        <div class="col-md-3 col-xs-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-offset="100" data-aos-delay="300">
           <ul class="plan plan2 featured">
             <li class="plan-name">
               <h3>Social mídia</h3>
@@ -57,7 +57,7 @@
           </ul>
         </div>
         <!--/.col-md-3-->
-        <div class="col-md-3 col-xs-6 flip-in">
+        <div class="col-md-3 col-xs-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-offset="100" data-aos-delay="200">
           <ul class="plan plan3">
             <li class="plan-name">
               <h3>Edição de vídeos</h3>
@@ -79,7 +79,7 @@
           </ul>
         </div>
         <!--/.col-md-3-->
-        <div class="col-md-3 col-xs-6 flip-in">
+        <div class="col-md-3 col-xs-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-delay="90" data-aos-offset="200">
           <ul class="plan plan4">
             <li class="plan-name">
               <h3>Desenvolvimento web</h3>
@@ -104,16 +104,17 @@
       </div>
       <!-- <section class="anime"> -->
       <section class="">
+          <div>
         <div class="row text-center">
           <div class="col-md-4 col-sm-6">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary" />
               <i class="fa fa-file fa-stack-1x fa-inverse" />
             </span>
-            <h4 class="my-3">
+            <h4 class="my-3" data-aos="fade-in" data-aos-offset="90" data-aos-delay="400" data-aos-duration="1000">
               E-Commerce
             </h4>
-            <p class="text-muted">
+            <p class="text-muted" data-aos="fade-in" data-aos-offset="90" data-aos-delay="420" data-aos-duration="1000">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
               maxime quam architecto quo inventore harum ex magni, dicta
               impedit.
@@ -147,6 +148,7 @@
               impedit.
             </p>
           </div>
+        </div>
         </div>
         <div class="row text-center">
           <div class="col-md-4 col-sm-6">
