@@ -1,20 +1,38 @@
-.vue-typer {
+/* .vue-typer {
     font-family: "Montserrat";
     font-size: 60%;
   }
   
   .vue-typer .custom.char {
-    color: #ffffff;
+    color: #FE9300;
     background-color: #080808d5;
     font-weight: 500;
     text-transform: none;
   }
 
   .vue-typer .custom.char.selected {
-    background-color: #e5edf8;
+    background-color: #0072BF;
   }
   
   .vue-typer .custom.caret {
     width: 5px;
-    background-color: #F58A3C;
+    background-color: #FE9300;
+  } */
+
+  .vue-typer {
+    font-family: Montserrat, 'Copperplate Gothic Light', fantasy;
+    font-size: 60%;
   }
+  
+  .vue-typer .custom.char.typed {
+    color: #FE9300;
+  }
+  .vue-typer .custom.char.selected {
+    color: #0072BF;
+    background-color: transparent;
+    text-decoration: line-through;
+  }
+
+  /* .vue-typer .custom.char.selected {
+    background-color: #000000;
+  } */

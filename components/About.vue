@@ -199,25 +199,20 @@
                   Email is not valid.
                 </div>
               </div>
-              <div class="form-group mb-md-0">
+              <div class="form-group">
                 <!-- Phone number input-->
                 <input id="phone" class="form-control" type="tel" placeholder="Your Phone *" data-sb-validations="required">
                 <div class="invalid-feedback" data-sb-feedback="phone:required">
                   A phone number is required.
                 </div>
               </div>
-            </div>
-            <div class="col-md-6">
-              <div class="form-group form-group-textarea mb-md-0">
+              <div class="form-group">
                 <!-- Message input-->
                 <textarea id="message" class="form-control" placeholder="Your Message *" data-sb-validations="required" />
                 <div class="invalid-feedback" data-sb-feedback="message:required">
                   A message is required.
                 </div>
-              </div>
-            </div>
-          </div>
-          <!-- Submit success message-->
+                 <!-- Submit success message-->
           <!---->
           <!-- This is what your users will see when the form-->
           <!-- has successfully submitted-->
@@ -246,6 +241,16 @@
               Send Message
             </button>
           </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <input class="form-control" placeholder="seu nome" v-model="nome">
+              <textarea class="form-control" v-model="asb" placeholder="escreva a sua Mensagem"></textarea>
+              <button @click="abrirWhats" class="btn btn-primary btn-xl text-uppercase" >
+                  abrirWhats
+              </button>
+            </div>
+          </div>
         </form>
       </div>
     </section>
@@ -254,6 +259,17 @@
 
 <script>
 export default {
-  name: 'NuxtAbout'
+  name: 'NuxtAbout',
+  data () {
+    return {
+      asb: '',
+      nome: ''
+    }
+  },
+  methods: {
+    abrirWhats () {
+      window.open('https://api.whatsapp.com/send?phone=5519983527411&text=' + 'nome:' + this.nome + '  Mensagem:' + this.asb, '_blank').focus()
+    }
+  }
 }
 </script>

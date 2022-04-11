@@ -12,13 +12,11 @@
       </div> -->
       <div class="masthead-heading text-uppercase">
         <div style="display: inline-flex" class="startAnimate">
-          <img src="img/logohi4.png" alt="...">
-          <!-- <font color="#5598F5">Hi</font> -->
-          <!-- <font color="#F58A3C">4</font> -->
+          <img src="img/logohi4tech2.png" alt="...">
         </div>
         <br>
         <div style="margin-top: 20px" class="startAnimate3">
-          <vue-typer :text="['Manutenção de Computadores', 'Montagem de Computadores', 'Backup de Dados', 'Recuperação de Sistemas', 'Edição de vídeo', 'Criação de Websites']" />
+          <vue-typer :text="['Manutenção de Computadores', 'Montagem de Computadores', 'Backup de Dados', 'Recuperação de Sistemas', 'Edição de vídeo', 'Criação de Websites']" caret-animation="phase" />
         </div>
       </div>
       <a class="btn btn-primary btn-xl text-uppercase startAnimate25" href="#services">conheça nossos serviços</a>

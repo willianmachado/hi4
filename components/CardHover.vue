@@ -32,7 +32,7 @@
 <script>
 import CardServico from './library/CardServico.vue'
 export default {
-  name: 'NuxtService3',
+  name: 'NuxtCardHover',
   components: { CardServico }
 }
 </script>

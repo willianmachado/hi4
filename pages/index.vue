@@ -3,12 +3,13 @@
     <NavBar />
     <Header />
     <ServiceList />
-    <Service3 />
+    <!-- <CardHover /> -->
     <Portfolio />
     <Localizacao />
     <About />
     <Footer />
     <PortfolioModals />
+    <ServicosModals />
   </div>
 </template>
 
