@@ -228,7 +228,7 @@ export default {
   border-radius: 0;
   list-style: none;
   margin: 0 2px 20px;
-  background: #0072BF;
+  background: #004AAD;
   text-align: center;
   padding: 30px 0;
 }

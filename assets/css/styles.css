@@ -7850,7 +7850,7 @@ textarea.form-control-lg {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: rgba(255,255,255,0.96118) !important;
+  background-color: rgba(255,255,255,0.91118) !important;
 }
 
 .bg-dark {
@@ -11314,7 +11314,7 @@ p {
 
 .page-section {
   padding: 6rem 0;
-  background: #fffffff0;
+  background: rgb(255 255 255 / 90%);
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
