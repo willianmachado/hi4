@@ -26,89 +26,59 @@
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">
-            Contact Us
+            Contato
           </h2>
-          <h3 class="section-subheading text-muted">
+          <h5 class="section-heading">
             Lorem ipsum dolor sit amet consectetur.
-          </h3>
+          </h5>
         </div>
-        <!-- * * * * * * * * * * * * * * *-->
-        <!-- * * SB Forms Contact Form * *-->
-        <!-- * * * * * * * * * * * * * * *-->
-        <!-- This form is pre-integrated with SB Forms.-->
-        <!-- To make this form functional, sign up at-->
-        <!-- https://startbootstrap.com/solution/contact-forms-->
-        <!-- to get an API token!-->
         <form id="contactForm" data-sb-form-api-token="API_TOKEN">
           <div class="row align-items-stretch mb-5">
-            <div class="col-md-6">
-              <div class="form-group">
-                <!-- Name input-->
-                <input id="name" class="form-control" type="text" placeholder="Your Name *" data-sb-validations="required">
-                <div class="invalid-feedback" data-sb-feedback="name:required">
-                  A name is required.
+            <div class="col-sm-6">
+              <div class="text-center">
+              <h4 class="section-heading">Nossas redes sociais</h4>
+                <div class="form-group">
+                  <!-- Redes socoais icones-->
+                  <a href="#!"><img class="img" src="img/facebook.svg" alt=""></a>
+                  <a href="#!"><img class="img" src="img/instagram.svg" alt=""></a>
                 </div>
               </div>
               <div class="form-group">
                 <!-- Email address input-->
-                <input id="email" class="form-control" type="email" placeholder="Your Email *" data-sb-validations="required,email">
-                <div class="invalid-feedback" data-sb-feedback="email:required">
-                  An email is required.
+                <div class="text-center">
+              <h4 class="section-heading">Email</h4>
+                <div class="form-group">
+                  <!-- Redes socoais icones-->
+                  <a href="#!"><img class="img"  src="img/gmail.svg" alt=""><br><h5>hi4technology@gmail.com</h5></a>
                 </div>
-                <div class="invalid-feedback" data-sb-feedback="email:email">
-                  Email is not valid.
-                </div>
+              </div>
               </div>
               <div class="form-group">
-                <!-- Phone number input-->
-                <input id="phone" class="form-control" type="tel" placeholder="Your Phone *" data-sb-validations="required">
-                <div class="invalid-feedback" data-sb-feedback="phone:required">
-                  A phone number is required.
+                <!-- Email address input-->
+                <div class="text-center">
+              <h4 class="section-heading">Localização</h4>
+                <div class="form-group">
+                  <!-- Redes socoais icones-->
+                  <a href="https://www.google.com.br/maps/place/Itupeva+-+Aglomeração+Urbana+de+Jundiaí,+Itupeva+-+SP/@-23.1545651,-47.0580628,15z/data=!3m1!4b1!4m5!3m4!1s0x94cf30d56621a3c9:0xd7fe5ed81a7951c0!8m2!3d-23.1558391!4d-47.0565397" target="_blank" rel="noopener noreferrer"><img class="img" src="img/maps.png" alt=""></a>
                 </div>
               </div>
-              <div class="form-group">
-                <!-- Message input-->
-                <textarea id="message" class="form-control" placeholder="Your Message *" data-sb-validations="required" />
-                <div class="invalid-feedback" data-sb-feedback="message:required">
-                  A message is required.
-                </div>
-                 <!-- Submit success message-->
-          <!---->
-          <!-- This is what your users will see when the form-->
-          <!-- has successfully submitted-->
-          <div id="submitSuccessMessage" class="d-none">
-            <div class="text-center text-white mb-3">
-              <div class="fw-bolder">
-                Form submission successful!
-              </div>
-              To activate this form, sign up at
-              <br>
-              <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-            </div>
-          </div>
-          <!-- Submit error message-->
-          <!---->
-          <!-- This is what your users will see when there is-->
-          <!-- an error submitting the form-->
-          <div id="submitErrorMessage" class="d-none">
-            <div class="text-center text-danger mb-3">
-              Error sending message!
-            </div>
-          </div>
-          <!-- Submit Button-->
-          <div class="text-center">
-            <button id="submitButton" class="btn btn-primary btn-xl text-uppercase disabled" type="submit">
-              Send Message
-            </button>
-          </div>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-sm-1">
+            </div>
+            <div class="col-sm-4">
+              <h4 class="section-heading">Telefone: 11 958085167</h4>
+              <h4 class="section-heading">WhatsApp</h4>
               <input v-model="nome" class="form-control" placeholder="seu nome">
+              <br>
               <textarea class="form-control" v-model="asb" placeholder="escreva a sua Mensagem"></textarea>
-              <button @click="abrirWhats" class="btn btn-primary btn-xl text-uppercase" >
-                  abrirWhats
+              <br>
+              <div class="text-center">
+              <button @click="abrirWhats" class="btn btn-primary text-uppercase" >
+                enviar mensagem
+                  <img src="img/whatsapp.png" alt="" id="whats">
               </button>
+              </div>
             </div>
           </div>
         </form>
@@ -128,8 +98,17 @@ export default {
   },
   methods: {
     abrirWhats () {
-      window.open('https://api.whatsapp.com/send?phone=5519983527411&text=' + 'nome:' + this.nome + '  Mensagem:' + this.asb, '_blank').focus()
+      window.open('https://api.whatsapp.com/send?phone=5511912345678&text=' + 'nome:' + this.nome + '  Mensagem:' + this.asb, '_blank').focus()
     }
   }
 }
 </script>
+<style scoped>
+#whats{
+  height: 55px;
+}
+.img{
+  /* width: 75px; */
+  height: 75px;
+}
+</style>

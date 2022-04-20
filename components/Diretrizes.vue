@@ -1,5 +1,5 @@
 <template>
-    <section id="about" class="page-section">
+    <section id="about" class="page-section bg-success">
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">
@@ -84,6 +84,6 @@
 </template>
 <script>
 export default {
-    name: 'NuxtDiretrizes'
+  name: 'NuxtDiretrizes'
 }
 </script>

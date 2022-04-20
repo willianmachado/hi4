@@ -32,6 +32,10 @@
           <li class="nav-item">
             <a class="nav-link" href="#contact">Contact</a>
           </li>
+          <li>
+            <a href="#contact" class="f1" target="">
+            <img src="img/whatsapp.png" class="wh" alt=""></a>
+          </li>
         </ul>
       </div>
     </div>
@@ -43,3 +47,8 @@ export default {
   name: 'NuxtNavBar'
 }
 </script>
+<style scoped>
+.wh{
+  height: 40px;
+}
+</style>

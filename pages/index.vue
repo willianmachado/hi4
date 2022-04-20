@@ -4,7 +4,7 @@
     <Header />
     <ServiceList />
     <!-- <CardHover /> -->
-    <Portfolio />
+    <!-- <Portfolio /> -->
     <Localizacao />
     <Diretrizes />
     <Time />

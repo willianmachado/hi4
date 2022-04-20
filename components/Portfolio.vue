@@ -1,6 +1,6 @@
 <!-- Please remove this file from your project -->
 <template>
-  <section id="portfolio" class="page-section bg-light">
+  <section id="portfolio" class="page-section bg-dark">
     <div class="container">
       <div class="text-center">
         <h2 class="section-heading text-uppercase">

@@ -5,7 +5,7 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-bs-dismiss="modal">
-            <img src="img/close-icon.svg" alt="Close modal">
+            <img src="img/excluir.gif" alt="Close modal">
           </div>
           <div class="container">
             <div class="row justify-content-center">

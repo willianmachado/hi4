@@ -30,7 +30,7 @@
             <li><strong>Forum</strong> Limpeza de software</li>
             <li><strong>Forum</strong> Troca de peças</li>
             <li class="plan-action">
-              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
+              <a href="#ServicosModal1" data-bs-toggle="modal" class="btn btn-outlined btn-primary btn-md">Saiba mais</a>
             </li>
           </ul>
         </div>
@@ -51,8 +51,9 @@
             <li><strong>400GB</strong> Mídias para redes sociais</li>
             <li><strong>10</strong> Edição de imagens</li>
             <li><strong>Forum</strong> Material institucional</li>
+            <br>
             <li class="plan-action">
-              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md">Signup</a>
+              <a href="#ServicosModal2" data-bs-toggle="modal" class="btn btn-outlined btn-primary btn-md">Saiba mais</a>
             </li>
           </ul>
         </div>
@@ -73,8 +74,9 @@
             <li><strong>1024GB</strong> Stories animados</li>
             <li>Pacote especial para Youtuber iniciante</li>
             <li><strong>Forum</strong> Edição de gameplay</li>
+            <br>
             <li class="plan-action">
-              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
+              <a href="#ServicosModal3" data-bs-toggle="modal" class="btn btn-outlined btn-primary btn-md">Saiba mais</a>
             </li>
           </ul>
         </div>
@@ -95,108 +97,14 @@
             <li><strong>1024GB</strong> Bandwidth</li>
             <li><strong>Unlimited</strong> Email Address</li>
             <li><strong>Forum</strong> Support</li>
+            <br>
             <li class="plan-action">
-              <a href="#portfolio" class="btn btn-outlined btn-primary btn-md btn-white">Signup</a>
+              <a href="#ServicosModal4" data-bs-toggle="modal" class="btn btn-outlined btn-primary btn-md">Saiba mais</a>
             </li>
           </ul>
         </div>
         <!--/.col-md-3-->
       </div>
-      <!-- <section class="anime"> -->
-      <section class="">
-          <div>
-        <div class="row text-center">
-          <div class="col-md-4 col-sm-6">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary" />
-              <i class="fa fa-file fa-stack-1x fa-inverse" />
-            </span>
-            <h4 class="my-3" data-aos="fade-in" data-aos-offset="90" data-aos-delay="400" data-aos-duration="1000">
-              E-Commerce
-            </h4>
-            <p class="text-muted" data-aos="fade-in" data-aos-offset="90" data-aos-delay="420" data-aos-duration="1000">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
-            </p>
-          </div>
-          <div class="col-md-4 col-sm-6">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary" />
-              <i class="fas fa-laptop fa-stack-1x fa-inverse" />
-            </span>
-            <h4 class="my-3">
-              Responsive Design
-            </h4>
-            <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
-            </p>
-          </div>
-          <div class="col-md-4 col-sm-6">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary" />
-              <i class="fas fa-lock fa-stack-1x fa-inverse" />
-            </span>
-            <h4 class="my-3">
-              Web Security
-            </h4>
-            <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
-            </p>
-          </div>
-        </div>
-        </div>
-        <div class="row text-center">
-          <div class="col-md-4 col-sm-6">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary" />
-              <i class="fas fa-shopping-cart fa-stack-1x fa-inverse" />
-            </span>
-            <h4 class="my-3">
-              E-Commerce
-            </h4>
-            <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
-            </p>
-          </div>
-          <div class="col-md-4 col-sm-6">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary" />
-              <i class="fas fa-laptop fa-stack-1x fa-inverse" />
-            </span>
-            <h4 class="my-3">
-              Responsive Design
-            </h4>
-            <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <a class="" data-bs-toggle="modal" href="#ServicosModal1">
-                <i class="fas fa-circle fa-stack-2x text-primary" />
-                <i class="fas fa-lock fa-stack-1x fa-inverse"/>
-              </a>
-            </span>
-            <h4 class="my-3">
-              Web Security
-            </h4>
-            <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
-            </p>
-          </div>
-        </div>
-      </section>
     </div>
   </section>
 </template>
@@ -207,16 +115,11 @@ export default {
 }
 </script>
 <style scoped>
-.col-md-4:hover {
-  background: #e9e9e9;
+.btn:hover {
   transform: scale(1.1);
   transition: transform 0.5s;
   /* border-style: solid; */
   /* border-color: rgb(0, 0, 0); */
-}
-.fa-stack:hover {
-  transform: scale(1.1);
-  transition: transform 0.5s;
 }
 /* qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq */
 #pricing-table .plan:hover {
