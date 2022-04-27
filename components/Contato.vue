@@ -49,7 +49,7 @@
               <h4 class="section-heading">Email</h4>
                 <div class="form-group">
                   <!-- Redes socoais icones-->
-                  <a href="#!"><img class="img"  src="img/gmail.svg" alt=""><br><h5>hi4technology@gmail.com</h5></a>
+                  <a href="#!"><img class="img"  src="img/gmail.svg" alt=""><br><h5>contato@hi4.com.br</h5></a>
                 </div>
               </div>
               </div>

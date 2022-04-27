@@ -59,10 +59,17 @@
                     Lorem ipsum dolor sit amet consectetur.
                   </p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/midia.jpg" alt="...">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <h2>Redes Sociais</h2>
+                  <p>Poucos lugares proporcionam tanto a interação das pessoas com as marcas quanto as redes sociais.<strong>Elas são um canal criado exatamente com esse objetivo: comunicação, influência e diálogo.</strong></p>
+                  <h3>Como definir uma estratégia de redes sociais</h3>
+                  <p>Uma estratégia efetiva de redes sociais deve gerar uma participação significativa na geração de tráfego para o seu domínio, mas, ao mesmo tempo, é um canal de comunicação e divulgação da marca.
+                  Por isso, vamos dividir em alguns passos simples:</p>
+                  <p>Passo 1 — Estabeleça objetivos e metas. Redes sociais também têm um funil e você deve considerar as métricas relevantes em cada etapa. A metodologia de OKRs para medir o desempenho se encaixa perfeitamente nesse caso;</p>
+                  <p>Passo 2 — Encontre as redes corretas. Facebook, Linkedin, Instagram, Twitter etc. são canais diferentes e tem suas particularidades, portanto a intenção dos usuários em cada um deles também. Faça pesquisas sobre o perfil do público, as palavras-chave e tendências antes de criar um perfil comercial;</p>
+                  <p>Passo 3 — Crie um perfil. Fique atento aos tamanhos corretos de posts e imagens em mídias sociais. Lembre-se de utilizar um design e tom de voz que obedeça aos padrões da sua marca e sejam focados nos objetivos definidos no primeiro passo;</p>
+                  <p>Passo 4 — Realize um benchmarking. Veja o que os seus concorrentes e blogs de assuntos relacionados estão dizendo. Se você tem concorrentes fortes, certamente eles publicam muita coisa relevante e que você deve aproveitar;</p>
+                  <p>Passo 5 — Defina um plano e um calendário editorial. Isso é necessário para organizar as verbas e analisar o andamento da estratégia. Aplicativos como Buzzsumo são boas ferramentas de pesquisa de tendências e palavras-chave;</p>
+                  <p>Passo 6 — Aprenda com os resultados. Assim como os blogs e sites, mídias sociais também têm ferramentas de análise. Utilize-as para calcular suas métricas e indicadores.</p>
                   <ul class="list-inline">
                     <li>
                       <strong>Client:</strong>
@@ -261,35 +268,5 @@ export default {
   height: 250px;
   left: 100px;
 }
-.modal-content {
-  animation: fadeIn 0.9s;
-  -webkit-animation: fadeIn 0.5s;
-  -moz-animation: fadeIn 0.5s;
-  -o-animation: fadeIn 0.5s;
-  -ms-animation: fadeIn 0.5s;
-}
-@keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
-}
 
-@-moz-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
-}
-
-@-webkit-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
-}
-
-@-o-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
-}
-
-@-ms-keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
-}
 </style>
