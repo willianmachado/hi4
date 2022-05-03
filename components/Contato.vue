@@ -39,8 +39,8 @@
               <h4 class="section-heading">Nossas redes sociais</h4>
                 <div class="form-group">
                   <!-- Redes socoais icones-->
-                  <a href="#!"><img class="img" src="img/facebook.svg" alt=""></a>
-                  <a href="#!"><img class="img" src="img/instagram.svg" alt=""></a>
+                  <a href="https://www.facebook.com/hifourtech"><img class="img" src="img/facebook.svg" alt=""></a>
+                  <a href="https://www.instagram.com/hifourtech/"><img class="img" src="img/instagram.svg" alt=""></a>
                 </div>
               </div>
               <div class="form-group">

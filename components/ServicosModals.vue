@@ -12,13 +12,14 @@
                 <div class="modal-body">
                   <!-- Project details-->
                   <h2 class="text-uppercase">
-                    ServicosModal1
+                    Manutenção Hardware
                   </h2>
                   <p class="item-intro text-muted">
                     Lorem ipsum dolor sit amet consectetur.
                   </p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/hard.jpg" alt="...">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <p>Muitas empresas se contentam em ter uma página em uma rede social.</p>
+                  <p><strong>O que é um site institucional e para que serve?</strong></p>
                   <ul class="list-inline">
                     <li>
                       <strong>Client:</strong>
@@ -104,7 +105,7 @@
                 <div class="modal-body">
                   <!-- Project details-->
                   <h2 class="text-uppercase">
-                    ServicosModal3
+                    Edição de vídeos
                   </h2>
                   <p class="item-intro text-muted">
                     Lorem ipsum dolor sit amet consectetur.
@@ -145,13 +146,18 @@
                 <div class="modal-body">
                   <!-- Project details-->
                   <h2 class="text-uppercase">
-                    ServicosModal4
+                    Criação de Sites
                   </h2>
                   <p class="item-intro text-muted">
                     Lorem ipsum dolor sit amet consectetur.
                   </p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/4.jpg" alt="...">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <p>Muitas empresas se contentam em ter uma página em uma rede social.</p>
+                  <p><strong>O que é um site institucional e para que serve?</strong></p>
+                  <p><strong>Credibilidade e confiabilidade</strong><br> O primeiro é credibilidade; de fato, o site é uma ferramenta que pode ajudar a melhorar a reputação da sua empresa. É claro que a presença na rede ajuda em muitos campos, começando com a melhoria da imagem corporativa, tornando-a mais oficial e confiável. Uma empresa que não existe na rede levanta suspeitas e é percebida negativamente. Quando a empresa não está presente na Web, um alarme toca a ponto do cliente duvidar da reputação.</p>
+                  <p><strong>Visibilidade e melhor imagem</strong><br> O site é um cartão de visita e, ao mesmo tempo, um quadro de distribuição disponível 24 horas por dia, todos os dias. Sua imagem corporativa é dada pela forma como você é percebido na web.</p>
+                  <p><strong>Disponibiliza informações importantes</strong><br> Outra vantagem importante é ter disponível um local em que os consumidores possam consultar informações importantes, atualizadas e confiáveis sobre a empresa. Além de dados comuns — como dias de funcionamento e horário de abertura e de fechamento —, é interessante divulgar a relação de produtos e de serviços.</p>
+
                   <ul class="list-inline">
                     <li>
                       <strong>Client:</strong>

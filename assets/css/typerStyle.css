@@ -1,11 +1,10 @@
 /* .vue-typer {
-    font-family: "Montserrat";
+  font-family: Montserrat, 'Copperplate Gothic Light', fantasy;
     font-size: 60%;
   }
   
   .vue-typer .custom.char {
     color: #FE9300;
-    background-color: #080808d5;
     font-weight: 500;
     text-transform: none;
   }
@@ -16,10 +15,10 @@
   
   .vue-typer .custom.caret {
     width: 5px;
-    background-color: #FE9300;
+    background-color: #f5f5f5;
   } */
 
-  .vue-typer {
+   .vue-typer {
     font-family: Montserrat, 'Copperplate Gothic Light', fantasy;
     font-size: 60%;
   }
@@ -32,6 +31,11 @@
     background-color: transparent;
     text-decoration: line-through;
   }
+  .vue-typer .custom.caret {
+    width: 5px;
+    background-color: #FE9300;
+  }
+  
 
   /* .vue-typer .custom.char.selected {
     background-color: #000000;

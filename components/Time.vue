@@ -40,8 +40,8 @@
           </div>
           <div class="col-sm">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="...">
-              <h4>Raul</h4>
+              <img class="mx-auto rounded-circle" src="img/team/4.jpg" alt="...">
+              <h4>Fernando</h4>
               <p class="text-muted">
                 Lead Developer
               </p>
@@ -49,8 +49,8 @@
           </div>
           <div class="col-sm">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="...">
-              <h4>Raul</h4>
+              <img class="mx-auto rounded-circle" src="img/team/5.jpg" alt="...">
+              <h4>Willian</h4>
               <p class="text-muted">
                 Lead Developer
               </p>
