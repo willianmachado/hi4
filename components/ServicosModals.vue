@@ -63,8 +63,7 @@
                   <h2>Redes Sociais</h2>
                   <p>Poucos lugares proporcionam tanto a interação das pessoas com as marcas quanto as redes sociais.<strong>Elas são um canal criado exatamente com esse objetivo: comunicação, influência e diálogo.</strong></p>
                   <h3>Como definir uma estratégia de redes sociais</h3>
-                  <p>Uma estratégia efetiva de redes sociais deve gerar uma participação significativa na geração de tráfego para o seu domínio, mas, ao mesmo tempo, é um canal de comunicação e divulgação da marca.
-                  Por isso, vamos dividir em alguns passos simples:</p>
+                  <p>Uma estratégia efetiva de redes sociais deve gerar uma participação significativa na geração de tráfego para o seu domínio, mas, ao mesmo tempo, é um canal de comunicação e divulgação da marca. Por isso, vamos dividir em alguns passos simples:</p>
                   <p>Passo 1 — Estabeleça objetivos e metas. Redes sociais também têm um funil e você deve considerar as métricas relevantes em cada etapa. A metodologia de OKRs para medir o desempenho se encaixa perfeitamente nesse caso;</p>
                   <p>Passo 2 — Encontre as redes corretas. Facebook, Linkedin, Instagram, Twitter etc. são canais diferentes e tem suas particularidades, portanto a intenção dos usuários em cada um deles também. Faça pesquisas sobre o perfil do público, as palavras-chave e tendências antes de criar um perfil comercial;</p>
                   <p>Passo 3 — Crie um perfil. Fique atento aos tamanhos corretos de posts e imagens em mídias sociais. Lembre-se de utilizar um design e tom de voz que obedeça aos padrões da sua marca e sejam focados nos objetivos definidos no primeiro passo;</p>
@@ -270,9 +269,4 @@ export default {
 }
 </script>
 <style scoped>
-.img-fluid{
-  height: 250px;
-  left: 100px;
-}
-
 </style>

@@ -18,10 +18,8 @@
               <h3>Manutenção</h3>
             </li>
             <li class="plan-price">
-              <div>
-                <span class="price"><sup>$</sup>10</span>
-                <small>month</small>
-              </div>
+              <iframe src="https://giphy.com/embed/3o85xC8sdW7vmG6bRe" width="340" height="150" class="giphy-embed" />
+              <!-- <iframe src="https://giphy.com/embed/jtXRDVzaCPXSynUz7h" width="340" height="150"></iframe> -->
             </li>
             <li><strong>50000GB</strong> Formatação</li>
             <li><strong>1GB</strong> Limpeza física</li>
@@ -41,10 +39,7 @@
               <h3>Social mídia</h3>
             </li>
             <li class="plan-price">
-              <div>
-                <span class="price"><sup>$</sup>20</span>
-                <small>month</small>
-              </div>
+              <iframe src="https://giphy.com/embed/3GSoFVODOkiPBFArlu" width="340" height="150" class="giphy-embed" />
             </li>
             <li><strong>5GB</strong> Confecção de logo marca</li>
             <li><strong>1GB</strong> Flyers promocionais</li>
@@ -64,10 +59,7 @@
               <h3>Edição de vídeos</h3>
             </li>
             <li class="plan-price">
-              <div>
-                <span class="price"><sup>$</sup>40</span>
-                <small>month</small>
-              </div>
+              <iframe src="https://giphy.com/embed/P1QN4dgCbMUFdiCy8K" width="340" height="150" class="giphy-embed" />
             </li>
             <li><strong>50GB</strong> Vinhetas para Youtube</li>
             <li><strong>8GB</strong> Edição para canais</li>
@@ -87,10 +79,7 @@
               <h3>Criação de sites</h3>
             </li>
             <li class="plan-price">
-              <div>
-                <span class="price"><sup>$</sup>100</span>
-                <small>month</small>
-              </div>
+              <iframe src="https://giphy.com/embed/yAGIvCiwPJn5C" width="340" height="150" class="giphy-embed" />
             </li>
             <li><strong>50GB</strong> Confecção de site personalizados</li>
             <li><strong>8GB</strong> RAM</li>
@@ -100,6 +89,10 @@
             <br>
             <li class="plan-action">
               <a href="#ServicosModal4" data-bs-toggle="modal" class="btn btn-outlined btn-primary btn-md">Saiba mais</a>
+              <!-- <div>
+                <span class="price"><sup>$</sup>10</span>
+                <small>month</small>
+              </div> -->
             </li>
           </ul>
         </div>

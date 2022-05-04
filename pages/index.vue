@@ -10,7 +10,7 @@
     <Time />
     <Contato />
     <Footer />
-    <PortfolioModals />
+    <!-- <PortfolioModals /> -->
     <ServicosModals />
   </div>
 </template>

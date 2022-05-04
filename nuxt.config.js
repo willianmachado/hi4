@@ -6,7 +6,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'hi4 Digital',
+    title: 'Hi4 Digital',
     htmlAttrs: {
       lang: 'en'
     },
@@ -37,7 +37,7 @@ export default {
         type: 'text/javascript'
       },
       {
-        src: 'js/scripts-min.js',
+        src: 'js/scripts.js',
         type: 'text/javascript'
       },
       {
