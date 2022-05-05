@@ -79,7 +79,7 @@
               <h3>Criação de sites</h3>
             </li>
             <li class="plan-price">
-              <iframe src="https://giphy.com/embed/yAGIvCiwPJn5C" width="340" height="150" class="giphy-embed" />
+              <iframe src="https://giphy.com/embed/XBoCNi0bplBm88c6Bd" width="340" height="160" class="giphy-embed" />
             </li>
             <li><strong>50GB</strong> Confecção de site personalizados</li>
             <li><strong>8GB</strong> RAM</li>
@@ -108,6 +108,11 @@ export default {
 }
 </script>
 <style scoped>
+/* gif link desabilitado */
+#plan-price .giphy-embed{
+  pointer-events: none;
+}
+/*  */
 .btn:hover {
   transform: scale(1.1);
   transition: transform 0.5s;
@@ -152,6 +157,7 @@ export default {
 #pricing-table .plan li.plan-price {
   margin-bottom: 20px;
   background-color: rgba(0, 0, 0, 0.2);
+  pointer-events: none;
 }
 
 #pricing-table .plan li.plan-price > div {

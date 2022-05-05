@@ -98,7 +98,7 @@ export default {
   },
   methods: {
     abrirWhats () {
-      window.open('https://api.whatsapp.com/send?phone=5511912345678&text=' + 'nome:' + this.nome + '  Mensagem:' + this.asb, '_blank').focus()
+      window.open('https://api.whatsapp.com/send?phone=5511958085167&text=' + 'nome:' + this.nome + '  Mensagem:' + this.asb, '_blank').focus()
     }
   }
 }
