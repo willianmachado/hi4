@@ -18,8 +18,7 @@
               <h3>Manutenção</h3>
             </li>
             <li class="plan-price">
-              <iframe src="https://giphy.com/embed/3o85xC8sdW7vmG6bRe" width="340" height="150" class="giphy-embed" />
-              <!-- <iframe src="https://giphy.com/embed/jtXRDVzaCPXSynUz7h" width="340" height="150"></iframe> -->
+              <img src="img/giphy.gif" alt="" width="270" height="160" class="giphy-embed">
             </li>
             <li><strong>50000GB</strong> Formatação</li>
             <li><strong>1GB</strong> Limpeza física</li>
@@ -39,7 +38,7 @@
               <h3>Social mídia</h3>
             </li>
             <li class="plan-price">
-              <iframe src="https://giphy.com/embed/3GSoFVODOkiPBFArlu" width="340" height="150" class="giphy-embed" />
+              <img src="img/giphy2.gif" alt="" width="170" height="150" class="giphy-embed">
             </li>
             <li><strong>5GB</strong> Confecção de logo marca</li>
             <li><strong>1GB</strong> Flyers promocionais</li>
@@ -59,7 +58,7 @@
               <h3>Edição de vídeos</h3>
             </li>
             <li class="plan-price">
-              <iframe src="https://giphy.com/embed/P1QN4dgCbMUFdiCy8K" width="340" height="150" class="giphy-embed" />
+              <img src="img/giphy3.gif" alt="" width="270" height="160" class="giphy-embed">
             </li>
             <li><strong>50GB</strong> Vinhetas para Youtube</li>
             <li><strong>8GB</strong> Edição para canais</li>
@@ -79,7 +78,7 @@
               <h3>Criação de sites</h3>
             </li>
             <li class="plan-price">
-              <iframe src="https://giphy.com/embed/XBoCNi0bplBm88c6Bd" width="340" height="160" class="giphy-embed" />
+              <img src="img/giphy4.gif" alt="" width="270" height="160" class="giphy-embed">
             </li>
             <li><strong>50GB</strong> Confecção de site personalizados</li>
             <li><strong>8GB</strong> RAM</li>
@@ -109,8 +108,8 @@ export default {
 </script>
 <style scoped>
 /* gif link desabilitado */
-#plan-price .giphy-embed{
-  pointer-events: none;
+.giphy-embed{
+  max-width: 100%;
 }
 /*  */
 .btn:hover {
